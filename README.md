@@ -1,16 +1,39 @@
-### Hi there 👋
+# 👋 Hi, I'm Manoj Nath
 
-<!--
-**ManojNathIC/ManojNathIC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Developer | Software Engineer | Open Source Contributor**
 
-Here are some ideas to get you started:
+💼 [@tekdi](https://github.com/tekdi)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+My journey in the tech world started with a passion for software engineering and a curiosity to explore innovative technologies. I've had the opportunity to work with a diverse tech stack and contribute to real-world, open-source, and enterprise-level solutions. I enjoy building meaningful software that solves problems and makes a difference.
+
+---
+
+## 🧰 Tech Stack
+
+**Backend**  
+Node.js | Express | NestJS | Django 
+
+**Frontend**  
+ReactJS
+
+**Authentication & API Platforms**  
+Keycloak | Strapi
+
+**DevOps & Infrastructure**  
+Docker
+
+**Databases**  
+PostgreSQL | MongoDB
+
+**Web & Credential Registries**  
+Sunbird RC (Registry & Credential) | ONEST – ONDC
+
+---
+
+## 📈 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManojNathIC&layout=compact&theme=radical)
