@@ -36,4 +36,6 @@ Sunbird RC (Registry & Credential) | ONEST – ONDC
 
 ## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManojNathIC&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManojNathIC&show_icons=true&theme=radical)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManojNathIC&layout=compact&theme=radical)
+
+---
