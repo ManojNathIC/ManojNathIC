@@ -35,9 +35,6 @@ Sunbird RC (Registry & Credential) | ONEST – ONDC
 ---
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-main-anuraghazra.vercel.app/api?username=ManojNathIC&show_icons=true&theme=radical&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats-git-main-anuraghazra.vercel.app/api/top-langs/?username=ManojNathIC&layout=compact&theme=radical&cache_seconds=86400)
-
+[![ManojNathIC's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManojNathIC)](https://github.com/ManojNathIC/github-readme-stats)
 
 ---
